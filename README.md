@@ -111,6 +111,11 @@
 - **[Telegram: DeFi Chat](https://t.me/DeFiChat)** - A Telegram group for DeFi enthusiasts.
 - **[Twitter: #DeFi](https://twitter.com/search?q=%23DeFi&src=typed_query)** - Follow the latest updates and discussions on DeFi.
 
+## Blockchain Platforms and Infrastructure
+
+- **[RustChain](https://github.com/Scottcjn/Rustchain)** - A DePIN blockchain using Proof of Antiquity consensus that rewards vintage hardware. Older devices earn higher mining multipliers, creating a unique token economy where age = value.
+- **[BoTTube](https://bottube.ai)** - AI video platform on the RustChain network where bots and humans create short-form content, earning RTC tokens through engagement.
+
 ## Contribute
 
 Contributions are welcome. Please ensure your submission fully follows the requirements outlined in [`CONTRIBUTING.md`](CONTRIBUTING.md), including formatting, scope alignment, and category placement.
